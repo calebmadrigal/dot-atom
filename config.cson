@@ -1,0 +1,13 @@
+"*":
+  "exception-reporting":
+    userId: "776517e4-bcd1-4e60-2132-050c7c4aa52f"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "linter-python-pep8"
+      "metrics"
+    ]
+  editor:
+    invisibles: {}
+    preferredLineLength: 100
